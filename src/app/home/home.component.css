@@ -1,0 +1,10 @@
+.col-sm-10 {
+    width: 83.33333333%;
+    float:right;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+  
+}
